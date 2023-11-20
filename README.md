@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tafforzore
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning seo
 - 📫 How to reach me :  nzomutchawilfrid@gmail.com
 
 <!---
