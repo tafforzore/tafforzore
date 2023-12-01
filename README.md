@@ -3,7 +3,7 @@
 - 📫 How to reach me :  nzomutchawilfrid@gmail.com
 
 <!---
-tafforzore/Tafforzore is a ✨ englishs
+tafforzore/tafforzore is a ✨ english
 
 I am a freelance backend developer with other frontend knowledge. 
 currently I am specializing in the frontend by seeking to become a fullstack developer.
