@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 📫 How to reach me :  nzomutchawilfrid@gmail.com
    
-<!---
+<!---  
 Tafforzore/Taforzore is a ✨ english
 
 I am a freelance backend developer with other frontend knowledge. 
