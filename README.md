@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Tafforzore
 
-Je suis un développeur freelance polyvalent avec des compétences approfondies dans plusieurs technologies. Actuellement, je me spécialise dans le développement frontend, mais mon objectif est de devenir un développeur fullstack. J'aime beaucoup programmer et je passe la majorité de mon temps à développer des applications et des solutions.
+Je suis un développeur freelance polyvalent avec des compétences approfondies dans plusieurs technologies. Actuellement, je me spécialise dans le développement frontend et backends. J'aime beaucoup programmer et je passe la majorité de mon temps à développer des applications et des solutions.
 
 ## 🚀 Compétences
 - **Backend** : Django, Node.js
